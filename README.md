@@ -2,10 +2,10 @@
 # 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** [Escribe aquí tu nombre]
-- **Sección:** [Escribe aquí tu sección]
-- **Carrera:** Ingeniería en Informática
-- **Sede:** [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+- **Nombre completo:** [Jorge Munoz Leon]
+- **Sección:** [2026_202_OL_PRY2202_24613390_PCT]
+- **Carrera:** [Analista Programador Computacional]
+- **Sede:** [ONLINE]
 
 ---
 
