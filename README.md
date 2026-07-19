@@ -48,7 +48,7 @@ Su objetivo es ofrecer una solución modular y reutilizable que facilite la orga
 git clone https://github.com/usuario/repositorio-evaluacion-final.git
 ```
 
-2. Abre el proyecto en IntelliJ IDEA.
+2. Abre el proyecto en Netbeans\IntelliJ IDEA.
 
 3. Verifica que los archivos `.txt` estén correctamente ubicados.
 
@@ -59,8 +59,8 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
-**Fecha de entrega:** \[DD/MM/2025]
+**Repositorio GitHub:** \[https://github.com/jomunozl-dev/llanquihuetour-eft]
+**Fecha de entrega:** \[19/07/2026]
 
 ---
 
