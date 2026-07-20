@@ -50,7 +50,7 @@ git clone https://github.com/jomunozl-dev/llanquihuetour-eft
 
 2. Abre el proyecto en Netbeans\IntelliJ IDEA.
 
-3. Verifica que los archivos `.txt` estén correctamente ubicados.
+3. Verifica que los archivos `.txt` estén correctamente ubicados en la carpeta ./resources
 
 4. Ejecuta el archivo `Main.java` desde el paquete `app`.
 
