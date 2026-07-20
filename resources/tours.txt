@@ -1,0 +1,3 @@
+Lago Todos los Santos;Puerto Varas;25000;8
+Volcán Osorno;Puerto Varas;30000;6
+Saltos del Petrohué;Puerto Varas;18000;4

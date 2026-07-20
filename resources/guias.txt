@@ -1,0 +1,2 @@
+Carlos Díaz;33333333-3;Arauco 111;Puerto Varas;Los Lagos;934567890;Turismo de aventura
+Ana Torres;44444444-4;Lagos 500;Puerto Montt;Los Lagos;945678901;Turismo cultural

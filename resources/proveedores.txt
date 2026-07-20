@@ -1,0 +1,2 @@
+Hotel Lago;55555555-5;Centro 100;Puerto Varas;Los Lagos;956789012;Alojamiento
+Transportes Sur;66666666-6;Ruta 5 Sur;Puerto Montt;Los Lagos;967890123;Transporte
