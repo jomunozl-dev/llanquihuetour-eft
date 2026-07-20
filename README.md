@@ -26,7 +26,7 @@ Su objetivo es ofrecer una solución modular y reutilizable que facilite la orga
 ├── guias.txt
 ├── proveedores.txt
 └── tours.txt 
-📁 src/
+📁 src/main/java
 ├── app/         # Contiene la clase principal (Main), responsable de iniciar la ejecución del sistema y coordinar la carga inicial de los datos.
 ├── data/        # Contiene las clases encargadas de leer los archivos de texto (.txt) y convertir la información en objetos del sistema.
 ├── exceptions/  # Contiene las excepciones personalizadas utilizadas para controlar errores y validar la información ingresada por el usuario.
