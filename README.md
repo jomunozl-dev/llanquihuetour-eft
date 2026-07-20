@@ -45,7 +45,7 @@ Su objetivo es ofrecer una solución modular y reutilizable que facilite la orga
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/jomunozl-dev/llanquihuetour-eft 
 ```
 
 2. Abre el proyecto en Netbeans\IntelliJ IDEA.
