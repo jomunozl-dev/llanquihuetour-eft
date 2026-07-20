@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I &emsp;&emsp;&emsp;&emsp; 📲 [LLanquihueTourAPP]
+# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📲 [LLanquihueTourAPP]
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** [Jorge Munoz Leon]
